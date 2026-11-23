@@ -4,6 +4,10 @@
 
 Adapt a scientifically stable manuscript to a target journal without changing the underlying evidence.
 
+## Initial targeting and later submission work
+
+Confirm the journal or journal category at the start of the manuscript workflow. Use this preference to guide stage-specific literature searches and the intended readership throughout revision. Read literature_search.md for search and citation requirements. Detailed title, abstract and submission-material adaptation follows the confirmed scientific argument.
+
 ## Step 1 — Read the journal's actual scope
 
 Identify what the journal prioritizes, for example:
@@ -20,7 +24,7 @@ Do not rely only on the journal title or impact factor.
 
 ## Step 2 — Inspect recent comparable papers
 
-When the user requests journal-fit research, examine recent papers for:
+During initial journal targeting and subsequent journal adaptation, examine recent comparable research papers for:
 - question framing;
 - article length and structure;
 - level of methodological detail;
@@ -28,7 +32,7 @@ When the user requests journal-fit research, examine recent papers for:
 - balance of theory and application;
 - style of titles, abstracts, and highlights.
 
-Use these observations to adjust emphasis, not to imitate wording.
+Cite the comparable papers and link to their original publication pages when explaining how these observations inform a recommendation. Revisit official scope if the target changes.
 
 ## Step 3 — Match the manuscript's strongest contribution
 
